@@ -1,5 +1,5 @@
-# H1 **Rick & Morty**
-## H2 as my favourite series
+# **Rick & Morty**
+## as my favourite series
 
 This series is about the smartest man in the universe which created portal and time travel that enables him to travel in different multiverse.
 The protagonist is so smart that he can literally manipulate the universe itself and having an infinite possibilities that he can do in different universe.
