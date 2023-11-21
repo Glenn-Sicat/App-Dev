@@ -1,6 +1,3 @@
-# App-Dev
-My first repository
-
 # H1 **Rick & Morty**
 ## H2 as my favourite series
 
